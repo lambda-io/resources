@@ -1,7 +1,9 @@
 # Resources for Lambda I/O events
 
-In this repo you can find resources helpful to organize your Lambda I/O meetup
+> In this repo you can find resources helpful to organize your Lambda I/O meetup
 or conference.
+
+![Our Logo](https://raw.githubusercontent.com/lambda-io/manifest/master/banner.png)
 
 ## Table of Contents
 
