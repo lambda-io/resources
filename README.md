@@ -7,7 +7,14 @@ or conference.
 
 - [Media Kit]()
 - [Social Networks Sharing]()
+- [License]()
 
 ## Media Kit
 
 ## Social Networks Sharing
+
+## License
+
+The documentation around these Lambda I/O resources and everything in this repository is licensed under a [Attribution-ShareAlike 4.0 International license](http://creativecommons.org/licenses/by-sa/4.0/).
+
+All contributions are assumed to be also licensed under the same.
