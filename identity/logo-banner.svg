@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 902.4 430.4" >
+  <defs id="defs13">
+    <linearGradient id="linearGradient5327" inkscape:collect="always">
+      <stop id="stop5329" offset="0" stop-color="#ecf0f1"/>
+      <stop id="stop5331" offset="1" stop-color="#ecf0f1" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linearGradient3783">
+      <stop id="stop3785" offset="0" stop-color="#ecf0f1"/>
+      <stop id="stop3787" offset="1" stop-color="#ecf0f1" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="radialGradient5333" cx="1361.443" cy="298.145" r="254.828" inkscape:collect="always" xlink:href="#linearGradient5327" fx="1361.443" fy="298.145" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.2203 0 0 1.19285 -299.905 -57.497)"/>
+  </defs>
+  <sodipodi:namedview id="namedview11" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1366" inkscape:window-height="705" showgrid="false" fit-margin-top="0" fit-margin-left="0" fit-margin-right="0" fit-margin-bottom="0" inkscape:zoom=".424" inkscape:cx="15.081" inkscape:cy="67.833" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:window-maximized="1" inkscape:current-layer="svg2"/>
+  <style id="style4">
+    .st0{fill:#EC695A;} .st1{fill:#32536E;} .st2{fill:#80B8C3;} .st3{fill:#4AB8A7;} .st4{opacity:0.37;fill:#010202;}
+  </style>
+  <path id="path3142" fill="url(#radialGradient5333)" d="M1616.27 298.145a254.828 254.828 0 1 1-509.655 0 254.828 254.828 0 1 1 509.656 0z" sodipodi:type="arc" sodipodi:cx="1361.443" sodipodi:cy="298.145" sodipodi:rx="254.828" sodipodi:ry="254.828" transform="matrix(.81743 0 0 .81743 -660.18 -29.18)"/>
+  <g id="g3100">
+    <g id="g3096">
+      <g id="g3107">
+        <g id="Camada_2">
+          <path id="XMLID_1_" fill="#ec695a" d="M378.57 60.25l109.133 207.145h42.863L418.924 60.25z" class="st0" inkscape:connector-curvature="0"/>
+          <path id="XMLID_9_" fill="#32536e" d="M377.988 60.833l-12.6 34.39 31.566-.045-18.787-34.927z" class="st1" inkscape:connector-curvature="0"/>
+          <path id="XMLID_10_" fill="#80b8c3" d="M361.085 267.395h42.37l40.04-83.934-21.612-41.024z" class="st2" inkscape:connector-curvature="0"/>
+          <path id="XMLID_12_" fill="#4ab8a7" d="M544.33 230.943l-13.764 36.452-19.638-36.452z" class="st3" inkscape:connector-curvature="0"/>
+          <path id="XMLID_14_" fill="#010202" d="M378.57 60.25l13.766 34.928h4.618z" class="st4" inkscape:connector-curvature="0" opacity=".37"/>
+          <path id="XMLID_11_" fill="#010202" d="M530.566 267.395l-.403-.987-13.63-35.465h-5.605" class="st4" inkscape:connector-curvature="0" opacity=".37"/>
+          <path id="XMLID_13_" fill="#010202" d="M419.82 146.65l21.343 41.608 2.33-4.797-21.61-41.024z" class="st4" inkscape:connector-curvature="0" opacity=".37"/>
+        </g>
+      </g>
+      <g id="g3086">
+        <g id="g3070">
+          <path id="XMLID_18_" fill="#4ab8a7" d="M468.29 298.915l-35.422 69.72h-13.944l36.272-69.72z" class="st3" inkscape:connector-curvature="0"/>
+        </g>
+        <path id="XMLID_17_" fill="#32536e" d="M468.468 299.094l-.18 11.568h-5.963l6.098-11.747z" class="st1" inkscape:connector-curvature="0"/>
+        <path id="XMLID_4_" fill="#32536e" d="M418.924 356.395v12.24l6.41-12.24z" class="st1" inkscape:connector-curvature="0"/>
+        <path id="XMLID_3_" fill="#010202" d="M468.29 298.915l-4.754 11.747h-1.21z" class="st4" inkscape:connector-curvature="0" opacity=".37"/>
+        <path id="XMLID_2_" fill="#010202" d="M418.924 368.635l.134-.314 4.932-11.925h1.345" class="st4" inkscape:connector-curvature="0" opacity=".37"/>
+        <g id="Camada_1">
+          <g id="g3073">
+            <path id="XMLID_22_" fill="#32536e" d="M497.97 368.635l-19.19-20.445v-28.875l19.19-20.445h27.126l19.235 20.445v28.875l-19.234 20.445z" class="st1" inkscape:connector-curvature="0"/>
+            <path id="XMLID_21_" fill="#4ab8a7" d="M525.096 368.635V348.19h19.235" class="st3" inkscape:connector-curvature="0"/>
+            <path id="XMLID_20_" fill="#4ab8a7" d="M478.78 319.315h19.19V298.87" class="st3" inkscape:connector-curvature="0"/>
+            <path id="XMLID_45_" fill="#010202" d="M478.78 319.315l19.55 1.39-.36-15.917v14.527h-19.19z" class="st4" inkscape:connector-curvature="0" opacity=".37"/>
+            <path id="XMLID_46_" fill="#010202" d="M525.096 366.662l-1.12-18.876 15.333.404h-14.214v18.472z" class="st4" inkscape:connector-curvature="0" opacity=".37"/>
+          </g>
+          <g id="g3063">
+            <path id="XMLID_25_" fill="#4ab8a7" d="M396.326 298.78l-8.115 11.882h-23.045l4.797-11.882z" class="st3" inkscape:connector-curvature="0"/>
+            <path id="XMLID_24_" fill="#32536e" d="M370.052 298.78h26.274v69.99h-26.274z" class="st1" inkscape:connector-curvature="0"/>
+            <path id="XMLID_23_" fill="#4ab8a7" d="M401.168 356.395l-4.842 12.42v-12.42z" class="st3" inkscape:connector-curvature="0"/>
+            <path id="XMLID_48_" fill="#010202" d="M370.052 298.78l-1.345 11.882h1.345z" class="st4" inkscape:connector-curvature="0" opacity=".37"/>
+            <path id="XMLID_49_" fill="#010202" d="M396.326 356.395h1.39l-1.39 12.42z" class="st4" inkscape:connector-curvature="0" opacity=".37"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <style id="style4-7">
+    .st0{fill:#EC695A;} .st1{fill:#32536E;} .st2{fill:#80B8C3;} .st3{fill:#4AB8A7;} .st4{opacity:0.37;fill:#010202;}
+  </style>
+</svg>
