@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="480"
+   height="800"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="schedule.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3833">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop3835" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop3837" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3833-2"
+       id="radialGradient3839-5"
+       cx="234.28572"
+       cy="225.21933"
+       fx="234.28572"
+       fy="225.21933"
+       r="25.714285"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3833-2">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop3835-3" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop3837-1" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3833"
+       id="radialGradient3879"
+       gradientUnits="userSpaceOnUse"
+       cx="234.28572"
+       cy="225.21933"
+       fx="234.28572"
+       fy="225.21933"
+       r="25.714285" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="101.09983"
+     inkscape:cy="522.24366"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer6"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="background"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-2.2140973,-230.14807)"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#8e44ad;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect2985"
+       width="480"
+       height="800"
+       x="2.2140973"
+       y="230.14807" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="line"
+     sodipodi:insensitive="true"
+     transform="translate(311.65988,143.86141)">
+    <rect
+       style="fill:none;stroke:#ffffff;stroke-width:8.42527103;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3757"
+       width="1.0666603"
+       height="617.72198"
+       x="-72.193214"
+       y="-52.722401" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="dots"
+     transform="translate(311.65988,143.86141)"
+     sodipodi:insensitive="true">
+    <g
+       id="g3875"
+       transform="matrix(1.9157523,0,0,1.9157523,65.138894,37.617214)">
+      <path
+         transform="matrix(1.1254344,0,0,1.1254344,-335.08055,-312.47858)"
+         d="m 260.00001,225.21933 a 25.714285,25.714285 0 1 1 -51.42857,0 25.714285,25.714285 0 1 1 51.42857,0 z"
+         sodipodi:ry="25.714285"
+         sodipodi:rx="25.714285"
+         sodipodi:cy="225.21933"
+         sodipodi:cx="234.28572"
+         id="path3759"
+         style="fill:url(#radialGradient3879);fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+      <path
+         transform="matrix(0.64750305,0,0,0.64750305,-223.10806,-204.58811)"
+         d="m 260.00001,225.21933 a 25.714285,25.714285 0 1 1 -51.42857,0 25.714285,25.714285 0 1 1 51.42857,0 z"
+         sodipodi:ry="25.714285"
+         sodipodi:rx="25.714285"
+         sodipodi:cy="225.21933"
+         sodipodi:cx="234.28572"
+         id="path3759-6"
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+    </g>
+    <g
+       id="g3875-7"
+       transform="matrix(1.1989518,0,0,1.1989518,87.096618,111.20848)">
+      <path
+         transform="matrix(0.41581919,0,0,0.41581919,-229.83352,-158.36602)"
+         d="m 260.00001,225.21933 a 25.714285,25.714285 0 1 1 -51.42857,0 25.714285,25.714285 0 1 1 51.42857,0 z"
+         sodipodi:ry="25.714285"
+         sodipodi:rx="25.714285"
+         sodipodi:cy="225.21933"
+         sodipodi:cx="234.28572"
+         id="path3759-6-2"
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+    </g>
+    <g
+       id="g3875-7-5"
+       transform="matrix(1.1989518,0,0,1.1989518,87.096614,181.20848)">
+      <path
+         transform="matrix(0.41581919,0,0,0.41581919,-229.83352,-158.36602)"
+         d="m 260.00001,225.21933 a 25.714285,25.714285 0 1 1 -51.42857,0 25.714285,25.714285 0 1 1 51.42857,0 z"
+         sodipodi:ry="25.714285"
+         sodipodi:rx="25.714285"
+         sodipodi:cy="225.21933"
+         sodipodi:cx="234.28572"
+         id="path3759-6-2-8"
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+    </g>
+    <g
+       id="g3875-7-0"
+       transform="matrix(1.1989518,0,0,1.1989518,87.096624,251.20848)">
+      <path
+         transform="matrix(0.41581919,0,0,0.41581919,-229.83352,-158.36602)"
+         d="m 260.00001,225.21933 a 25.714285,25.714285 0 1 1 -51.42857,0 25.714285,25.714285 0 1 1 51.42857,0 z"
+         sodipodi:ry="25.714285"
+         sodipodi:rx="25.714285"
+         sodipodi:cy="225.21933"
+         sodipodi:cx="234.28572"
+         id="path3759-6-2-3"
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+    </g>
+    <g
+       id="g3875-7-5-0"
+       transform="matrix(1.1989518,0,0,1.1989518,87.096614,351.20848)">
+      <path
+         transform="matrix(0.41581919,0,0,0.41581919,-229.83352,-158.36602)"
+         d="m 260.00001,225.21933 a 25.714285,25.714285 0 1 1 -51.42857,0 25.714285,25.714285 0 1 1 51.42857,0 z"
+         sodipodi:ry="25.714285"
+         sodipodi:rx="25.714285"
+         sodipodi:cy="225.21933"
+         sodipodi:cx="234.28572"
+         id="path3759-6-2-8-3"
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+    </g>
+    <g
+       id="g3875-7-5-0-2"
+       transform="matrix(1.1989518,0,0,1.1989518,87.096614,421.20848)">
+      <path
+         transform="matrix(0.41581919,0,0,0.41581919,-229.83352,-158.36602)"
+         d="m 260.00001,225.21933 a 25.714285,25.714285 0 1 1 -51.42857,0 25.714285,25.714285 0 1 1 51.42857,0 z"
+         sodipodi:ry="25.714285"
+         sodipodi:rx="25.714285"
+         sodipodi:cy="225.21933"
+         sodipodi:cx="234.28572"
+         id="path3759-6-2-8-3-3"
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+    </g>
+    <g
+       id="g3875-7-5-0-2-2"
+       transform="matrix(1.1989518,0,0,1.1989518,87.096614,521.20848)">
+      <path
+         transform="matrix(0.41581919,0,0,0.41581919,-229.83352,-158.36602)"
+         d="m 260.00001,225.21933 a 25.714285,25.714285 0 1 1 -51.42857,0 25.714285,25.714285 0 1 1 51.42857,0 z"
+         sodipodi:ry="25.714285"
+         sodipodi:rx="25.714285"
+         sodipodi:cy="225.21933"
+         sodipodi:cx="234.28572"
+         id="path3759-6-2-8-3-3-4"
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+    </g>
+    <g
+       id="g3875-7-5-0-2-2-6"
+       transform="matrix(1.1989518,0,0,1.1989518,87.096614,656.31774)">
+      <path
+         transform="matrix(0.41581919,0,0,0.41581919,-229.83352,-158.36602)"
+         d="m 260.00001,225.21933 a 25.714285,25.714285 0 1 1 -51.42857,0 25.714285,25.714285 0 1 1 51.42857,0 z"
+         sodipodi:ry="25.714285"
+         sodipodi:rx="25.714285"
+         sodipodi:cy="225.21933"
+         sodipodi:cx="234.28572"
+         id="path3759-6-2-8-3-3-4-6"
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="events"
+     transform="translate(311.65988,143.86141)"
+     sodipodi:insensitive="true">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4093"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.56298162,0,0,0.56298162,-38.510365,18.341752)"><flowRegion
+         id="flowRegion4095"><rect
+           id="rect4097"
+           width="122.85714"
+           height="59.285713"
+           x="-222.85715"
+           y="2.8660715" /></flowRegion><flowPara
+         id="flowPara4099"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;font-family:Salaryman;-inkscape-font-specification:Salaryman">09:00</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4093-6"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.56298162,0,0,0.56298162,79.668679,18.341752)"><flowRegion
+         id="flowRegion4095-0"><rect
+           id="rect4097-4"
+           width="268.19467"
+           height="46.725681"
+           x="-222.85715"
+           y="2.8660715" /></flowRegion><flowPara
+         id="flowPara4099-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Salaryman;-inkscape-font-specification:Salaryman">Check-in</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4093-4"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.56298162,0,0,0.56298162,71.76357,88.341752)"><flowRegion
+         id="flowRegion4095-05"><rect
+           id="rect4097-47"
+           width="136.81345"
+           height="59.285713"
+           x="-222.85715"
+           y="2.8660715" /></flowRegion><flowPara
+         id="flowPara4099-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;font-family:Salaryman;-inkscape-font-specification:Salaryman">09:30</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4093-6-1"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.56298162,0,0,0.56298162,-144.8461,88.634513)"><flowRegion
+         id="flowRegion4095-0-4"><rect
+           id="rect4097-4-9"
+           width="320.2291"
+           height="48.51997"
+           x="-222.85715"
+           y="2.8660715" /></flowRegion><flowPara
+         id="flowPara4099-9-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Salaryman;-inkscape-font-specification:Salaryman">WELCOMING</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4093-4-5"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.56298162,0,0,0.56298162,-45.307655,158.34175)"><flowRegion
+         id="flowRegion4095-05-0"><rect
+           id="rect4097-47-7"
+           width="136.81345"
+           height="59.285713"
+           x="-222.85715"
+           y="2.8660715" /></flowRegion><flowPara
+         id="flowPara4099-2-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;font-family:Salaryman;-inkscape-font-specification:Salaryman">10:00</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4093-6-1-7"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.56298294,0,0,0.56298162,79.984412,157.82367)"><flowRegion
+         id="flowRegion4095-0-4-8"><rect
+           id="rect4097-4-9-3"
+           width="320.2291"
+           height="48.51997"
+           x="-222.85715"
+           y="2.8660715" /></flowRegion><flowPara
+         id="flowPara4099-9-9-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Salaryman;-inkscape-font-specification:Salaryman">Talk 1</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4093-6-1-7-4"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.46481528,0,0,0.46481528,58.35013,194.11936)"><flowRegion
+         id="flowRegion4095-0-4-8-4"><rect
+           id="rect4097-4-9-3-1"
+           width="258.06009"
+           height="59.938763"
+           x="-222.85715"
+           y="2.8660715" /></flowRegion><flowPara
+         id="flowPara4099-9-9-6-9"
+         style="font-size:24.86759758px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Aaargh;-inkscape-font-specification:Aaargh">A super amazing talk title here</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4093-4-5-5"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.56298162,0,0,0.56298162,58.239504,258.34175)"><flowRegion
+         id="flowRegion4095-05-0-5"><rect
+           id="rect4097-47-7-7"
+           width="136.81345"
+           height="59.285713"
+           x="-222.85715"
+           y="2.8660715" /></flowRegion><flowPara
+         id="flowPara4099-2-6-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;font-family:Salaryman;-inkscape-font-specification:Salaryman">10:30</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4093-6-1-7-7"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.56298162,0,0,0.56298162,-80.180777,258.57816)"><flowRegion
+         id="flowRegion4095-0-4-8-3"><rect
+           id="rect4097-4-9-3-4"
+           width="405.23569"
+           height="47.251217"
+           x="-222.85715"
+           y="2.8660715" /></flowRegion><flowPara
+         id="flowPara4099-9-9-6-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Salaryman;-inkscape-font-specification:Salaryman">BREAK</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4093-4-5-5-5"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.56298162,0,0,0.56298162,-47.220967,328.34175)"><flowRegion
+         id="flowRegion4095-05-0-5-5"><rect
+           id="rect4097-47-7-7-6"
+           width="136.81345"
+           height="59.285713"
+           x="-222.85715"
+           y="2.8660715" /></flowRegion><flowPara
+         id="flowPara4099-2-6-4-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;font-family:Salaryman;-inkscape-font-specification:Salaryman">11:00</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4093-6-1-7-7-5"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.56298162,0,0,0.56298162,79.984119,327.82392)"><flowRegion
+         id="flowRegion4095-0-4-8-3-9"><rect
+           id="rect4097-4-9-3-4-4"
+           width="405.23569"
+           height="47.251217"
+           x="-222.85715"
+           y="2.8660715" /></flowRegion><flowPara
+         id="flowPara4099-9-9-6-0-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Salaryman;-inkscape-font-specification:Salaryman">Talk 2</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4093-6-1-7-4-8-3"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.46481528,0,0,0.46481528,58.35013,362.87647)"><flowRegion
+         id="flowRegion4095-0-4-8-4-8-4"><rect
+           id="rect4097-4-9-3-1-1-9"
+           width="258.06009"
+           height="59.938763"
+           x="-222.85715"
+           y="2.8660715" /></flowRegion><flowPara
+         id="flowPara4099-9-9-6-9-5-0"
+         style="font-size:24.86759758px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Aaargh;-inkscape-font-specification:Aaargh">A super amazing talk title here</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4093-4-5-5-5-5"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.56298162,0,0,0.56298162,44.824707,428.34175)"><flowRegion
+         id="flowRegion4095-05-0-5-5-3"><rect
+           id="rect4097-47-7-7-6-9"
+           width="136.81345"
+           height="59.285713"
+           x="-222.85715"
+           y="2.8660715" /></flowRegion><flowPara
+         id="flowPara4099-2-6-4-0-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;font-family:Salaryman;-inkscape-font-specification:Salaryman">11:30</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4093-6-1-7-7-5-2"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.56298162,0,0,0.56298162,-76.288724,427.82392)"><flowRegion
+         id="flowRegion4095-0-4-8-3-9-8"><rect
+           id="rect4097-4-9-3-4-4-8"
+           width="405.23569"
+           height="47.251217"
+           x="-222.85715"
+           y="2.8660715" /></flowRegion><flowPara
+         id="flowPara4099-9-9-6-0-6-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Salaryman;-inkscape-font-specification:Salaryman">Talk 3</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4093-6-1-7-4-8-3-8"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.46481528,0,0,0.46481528,-108.54603,461.40223)"><flowRegion
+         id="flowRegion4095-0-4-8-4-8-4-6"><rect
+           id="rect4097-4-9-3-1-1-9-0"
+           width="258.06009"
+           height="59.938763"
+           x="-222.85715"
+           y="2.8660715" /></flowRegion><flowPara
+         id="flowPara4099-9-9-6-9-5-0-2"
+         style="font-size:24.86759758px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;font-family:Aaargh;-inkscape-font-specification:Aaargh">A super amazing talk title here</flowPara></flowRoot>  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="city-title"
+     transform="translate(311.65988,143.86141)"
+     sodipodi:insensitive="true">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3909"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.70532482,0,0,0.70532482,-532.82551,444.11012)"><flowRegion
+         id="flowRegion3911"><rect
+           id="rect3913"
+           width="472.49139"
+           height="100.96282"
+           x="504.28571"
+           y="185" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;font-family:Aaargh;-inkscape-font-specification:Aaargh"
+         id="flowPara4989">CITY NAME</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;font-family:Aaargh;-inkscape-font-specification:Aaargh"
+         id="flowPara4993">MEETUP</flowPara></flowRoot>  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="logo-top"
+     sodipodi:insensitive="true"
+     transform="translate(311.65988,143.86141)">
+    <g
+       id="g4194"
+       transform="matrix(0.10283573,0,0,0.10283573,-102.43243,-124.16791)"
+       style="opacity:0.93999999;fill:none;stroke:#8e44ad;stroke-opacity:1">
+      <g
+         id="g3107"
+         style="fill:none;stroke:#8e44ad;stroke-width:6.81285286;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         transform="matrix(0.63686877,0,0,0.63686877,66.814543,154.42812)">
+        <g
+           id="Camada_2"
+           style="fill:none;stroke:#8e44ad;stroke-width:6.81285286;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+          <polygon
+             id="XMLID_1_"
+             class="st0"
+             points="199.6,157.6 443,619.6 538.6,619.6 289.6,157.6 "
+             style="fill:none;stroke:#8e44ad;stroke-width:6.81285286;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+          <polygon
+             id="XMLID_9_"
+             class="st1"
+             points="198.3,158.9 170.2,235.6 240.6,235.5 198.7,157.6 "
+             style="fill:none;stroke:#8e44ad;stroke-width:6.81285286;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+          <polygon
+             id="XMLID_10_"
+             class="st2"
+             points="160.6,619.6 255.1,619.6 344.4,432.4 296.2,340.9 "
+             style="fill:none;stroke:#8e44ad;stroke-width:6.81285286;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+          <polygon
+             id="XMLID_12_"
+             class="st3"
+             points="569.3,538.3 538.6,619.6 494.8,538.3 "
+             style="fill:none;stroke:#8e44ad;stroke-width:6.81285286;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+          <polygon
+             id="XMLID_14_"
+             class="st4"
+             points="199.6,157.6 230.3,235.5 240.6,235.5 "
+             style="opacity:0.37000002;fill:none;stroke:#8e44ad;stroke-width:6.81285286;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+          <polyline
+             id="XMLID_11_"
+             class="st4"
+             points="538.6,619.6 537.7,617.4 507.3,538.3 494.8,538.3  "
+             style="opacity:0.37000002;fill:none;stroke:#8e44ad;stroke-width:6.81285286;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+          <polygon
+             id="XMLID_13_"
+             class="st4"
+             points="291.6,350.3 339.2,443.1 344.4,432.4 296.2,340.9 "
+             style="opacity:0.37000002;fill:none;stroke:#8e44ad;stroke-width:6.81285286;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        </g>
+      </g>
+      <g
+         id="g3086"
+         style="fill:none;stroke:#8e44ad;stroke-width:6.81285286;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         transform="matrix(0.63686877,0,0,0.63686877,66.814543,154.42812)">
+        <g
+           id="g3070"
+           style="fill:none;stroke:#8e44ad;stroke-width:6.81285286;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+          <polygon
+             points="399.7,689.9 320.7,845.4 289.6,845.4 370.5,689.9 "
+             class="st3"
+             id="XMLID_18_"
+             style="fill:none;stroke:#8e44ad;stroke-width:6.81285286;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        </g>
+        <polygon
+           style="fill:none;stroke:#8e44ad;stroke-width:6.81285286;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="XMLID_17_"
+           class="st1"
+           points="400.1,690.3 399.7,716.1 386.4,716.1 400,689.9 " />
+        <polygon
+           style="fill:none;stroke:#8e44ad;stroke-width:6.81285286;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="XMLID_4_"
+           class="st1"
+           points="289.6,818.1 289.6,845.4 303.9,818.1 " />
+        <polygon
+           style="opacity:0.37000002;fill:none;stroke:#8e44ad;stroke-width:6.81285286;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="XMLID_3_"
+           class="st4"
+           points="399.7,689.9 389.1,716.1 386.4,716.1 " />
+        <polyline
+           style="opacity:0.37000002;fill:none;stroke:#8e44ad;stroke-width:6.81285286;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="XMLID_2_"
+           class="st4"
+           points="289.6,845.4 289.9,844.7 300.9,818.1 303.9,818.1  " />
+        <g
+           id="Camada_1"
+           style="fill:none;stroke:#8e44ad;stroke-width:6.81285286;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+          <g
+             id="g3073"
+             style="fill:none;stroke:#8e44ad;stroke-width:6.81285286;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+            <polygon
+               points="465.9,845.4 423.1,799.8 423.1,735.4 465.9,689.8 526.4,689.8 569.3,735.4 569.3,799.8 526.4,845.4 "
+               class="st1"
+               id="XMLID_22_"
+               style="fill:none;stroke:#8e44ad;stroke-width:6.81285286;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+            <polyline
+               points="526.4,845.4 526.4,799.8 569.3,799.8  "
+               class="st3"
+               id="XMLID_21_"
+               style="fill:none;stroke:#8e44ad;stroke-width:6.81285286;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+            <polyline
+               points="423.1,735.4 465.9,735.4 465.9,689.8  "
+               class="st3"
+               id="XMLID_20_"
+               style="fill:none;stroke:#8e44ad;stroke-width:6.81285286;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+            <polygon
+               points="465.9,703 465.9,735.4 423.1,735.4 423.1,735.4 466.7,738.5 "
+               class="st4"
+               id="XMLID_45_"
+               style="opacity:0.37000002;fill:none;stroke:#8e44ad;stroke-width:6.81285286;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+            <polygon
+               points="558.1,799.8 526.4,799.8 526.4,841 526.4,841 523.9,798.9 "
+               class="st4"
+               id="XMLID_46_"
+               style="opacity:0.37000002;fill:none;stroke:#8e44ad;stroke-width:6.81285286;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+          </g>
+          <g
+             id="g3063"
+             style="fill:none;stroke:#8e44ad;stroke-width:6.81285286;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+            <polygon
+               points="239.2,689.6 221.1,716.1 169.7,716.1 180.4,689.6 "
+               class="st3"
+               id="XMLID_25_"
+               style="fill:none;stroke:#8e44ad;stroke-width:6.81285286;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+            <rect
+               height="156.10001"
+               width="58.599998"
+               class="st1"
+               y="689.59998"
+               x="180.60001"
+               id="XMLID_24_"
+               style="fill:none;stroke:#8e44ad;stroke-width:6.81285286;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+            <polygon
+               points="250,818.1 239.2,845.8 239.2,818.1 "
+               class="st3"
+               id="XMLID_23_"
+               style="fill:none;stroke:#8e44ad;stroke-width:6.81285286;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+            <polygon
+               points="180.6,689.6 177.6,716.1 180.6,716.1 "
+               class="st4"
+               id="XMLID_48_"
+               style="opacity:0.37000002;fill:none;stroke:#8e44ad;stroke-width:6.81285286;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+            <polygon
+               points="239.2,818.1 242.3,818.1 239.2,845.8 "
+               class="st4"
+               id="XMLID_49_"
+               style="opacity:0.37000002;fill:none;stroke:#8e44ad;stroke-width:6.81285286;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
