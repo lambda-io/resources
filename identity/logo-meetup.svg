@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 558.19998 166.1" id="svg2">
+  <style id="style4">
+    .st0{fill:#EC695A;} .st1{fill:#32536E;} .st2{fill:#80B8C3;} .st3{fill:#4AB8A7;} .st4{opacity:0.37;fill:#010202;} .st5{fill:none;} .st6{font-family:&apos;MyriadPro-Regular&apos;;} .st7{font-size:93px;} .st8{font-size:30px;}
+  </style>
+  <g id="Camada_2">
+    <path id="XMLID_1_" class="st0" fill="#ec695a" d="M34.3 5H13.9l55.2 104.8h21.7z"/>
+    <path id="XMLID_9_" class="st1" fill="#32536e" d="M13.7 5l-.1.3-6.4 17.4h16z"/>
+    <path id="XMLID_10_" class="st2" fill="#80b8c3" d="M35.8 46.6L5 109.8h21.5l20.2-42.4z"/>
+    <path id="XMLID_12_" class="st3" fill="#4ab8a7" d="M97.7 91.4l-6.9 18.4-10-18.4z"/>
+    <path id="XMLID_14_" class="st4" opacity=".37" fill="#010202" d="M13.9 5l6.9 17.7h2.4z"/>
+    <path id="XMLID_11_" class="st4" opacity=".37" fill="#010202" d="M90.8 109.8l-.2-.5-6.9-17.9h-2.9"/>
+    <path id="XMLID_13_" class="st4" opacity=".37" fill="#010202" d="M35.8 46.6l-1.1 2.1 10.9 21.1 1.1-2.4z"/>
+    <path id="XMLID_18_" class="st3" fill="#4ab8a7" d="M52.6 125.8h6.7l-18 35.3h-7z"/>
+    <path id="XMLID_17_" class="st1" fill="#32536e" d="M59.3 125.8l.1.1-.1 5.8h-3.1z"/>
+    <path id="XMLID_4_" class="st1" fill="#32536e" d="M34.3 154.9v6.2l3.2-6.2z"/>
+    <path id="XMLID_3_" class="st4" opacity=".37" fill="#010202" d="M59.3 125.8l-2.4 5.9h-.7z"/>
+    <path id="XMLID_2_" class="st4" opacity=".37" fill="#010202" d="M34.3 161.1l.1-.2 2.5-6h.6"/>
+  </g>
+  <g id="Camada_1">
+    <path id="XMLID_106_" class="st3" fill="#4ab8a7" d="M9.5 125.7h13.4l-4.2 6H7.1z"/>
+    <path id="XMLID_105_" class="st1" fill="#32536e" d="M9.6 125.7h13.3v35.4H9.6z"/>
+    <path id="XMLID_104_" class="st3" fill="#4ab8a7" d="M25.3 154.9l-2.4 6.2v-6.2z"/>
+    <path id="XMLID_103_" class="st1" fill="#32536e" d="M74.3 125.8H88l9.7 10.3v14.6L88 161.1H74.3l-9.7-10.4v-14.6z"/>
+    <path id="XMLID_102_" class="st3" fill="#4ab8a7" d="M88 161.1v-10.4h9.7"/>
+    <path id="XMLID_101_" class="st3" fill="#4ab8a7" d="M64.6 136.1h9.7v-10.3"/>
+    <path id="XMLID_100_" class="st4" opacity=".37" fill="#010202" d="M74.3 136.1h-9.7l9.9.7-.2-8z"/>
+    <path id="XMLID_99_" class="st4" opacity=".37" fill="#010202" d="M88 150.7v9.4l-.6-9.6 7.8.2z"/>
+    <path id="XMLID_98_" class="st4" opacity=".37" fill="#010202" d="M9.6 125.7l-.7 6h.7z"/>
+    <path id="XMLID_97_" class="st4" opacity=".37" fill="#010202" d="M22.9 154.9h.7l-.7 6.2z"/>
+    <path id="XMLID_20_" class="st5" fill="none" d="M121.9 34.7h370v70.1h-370z"/>
+    <text id="XMLID_21_" transform="translate(121.9 100.778)" class="st0 st6 st7" font-size="93" fill="#ec695a" font-family="MyriadPro-Regular">
+      <tspan style="-inkscape-font-specification:Myriad Pro" id="tspan3019" font-family="Myriad Pro">City Name</tspan>
+    </text>
+    <path id="XMLID_22_" class="st5" fill="none" d="M128.6 115.9h184.7v30H128.6z"/>
+    <text id="XMLID_23_" transform="translate(128.567 137.222)" class="st1 st6 st8" font-size="30" fill="#32536e" font-family="MyriadPro-Regular">
+      <tspan style="-inkscape-font-specification:Myriad Pro" id="tspan3021" font-family="Myriad Pro">Meetup</tspan>
+    </text>
+    <path id="XMLID_32_" class="st1" fill="#32536e" d="M546.1 12.1l7.1 7.1v63.2L539 67.6V5z"/>
+    <path id="XMLID_24_" class="st2" fill="#80b8c3" d="M553.2 19.2H337.9L352.7 5H539l7.1 7.1z"/>
+    <path id="XMLID_46_" class="st1" fill="#32536e" d="M546.1 153.1l7.1-7.1V98.3L539 83.4v76.8z"/>
+    <path id="XMLID_45_" class="st2" fill="#80b8c3" d="M553.2 146H337.9l14.8 14.2H539l7.1-7.1z"/>
+  </g>
+</svg>
